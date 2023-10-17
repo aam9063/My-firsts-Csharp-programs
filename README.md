@@ -1,2 +1,2 @@
-# My-firsts-Csharp-programs
-Recopilación de mis primeros pasos aprendiendo a programar en C#
+# My-first-Csharp-program
+
